@@ -10,8 +10,13 @@ Download and install the correct build and version of Python for your operating 
 
 PyPI Requirements (pip requirements):
 PyAudio
+
 pywhatkit
+
 pyttsx3
+
 speechrecognition
+
 wikipedia
+
 pyjokes
